@@ -2,7 +2,7 @@
     box-sizing:border-box; 
 }
 
-:row {
+.row {
     display: flex;
     flex: row wrap;
 }
@@ -67,6 +67,16 @@
     }
 
 
+
 h1 
 { color:rosybrown;
 }
+
+
+.photoProfil{ 
+    width: 10%;
+}
+
+.titreRouge { color:blue;
+}
+
